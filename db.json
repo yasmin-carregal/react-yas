@@ -1,0 +1,51 @@
+{
+  "cinema-yas": [
+    {
+      "id": 1,
+      "name": "Crepúsculo"
+    },
+    {
+      "id": 2,
+      "name": "Amanhecer"
+    },
+    {
+      "id": 3,
+      "name": "Como eu era antes de você"
+    },
+    {
+      "id": 4,
+      "name": "A culpa é das estrelas"
+    },
+    {
+      "id": 5,
+      "name": "Depois do universo"
+    }
+  ],
+  "generos": [
+    {
+      "id": 1,
+      "name": "Crepúsculo",
+      "genero": "Fantasia"
+    },
+    {
+      "id": 2,
+      "name": "Amanhecer",
+      "genero": "Fantasia"
+    },
+    {
+      "id": 3,
+      "name": "Como eu era antes de você",
+      "genero": "Romance"
+    },
+    {
+      "id": 4,
+      "name": "A culpa é das estrelas",
+      "genero": "Drama"
+    },
+    {
+      "id": 5,
+      "name": "Depois do universo",
+      "genero": "Drama"
+    }
+  ]
+}
